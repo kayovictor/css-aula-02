@@ -1,0 +1,22 @@
+p::first-letter{
+    color: rebeccapurple;
+    font-size: 70px;
+}
+p::first-line{
+    color: blue;
+}   
+
+a:link {
+    color: darkgreen;
+}
+
+a:visited {
+    color: maroon;
+}
+
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: blue;
+}
